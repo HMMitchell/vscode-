@@ -1,0 +1,3 @@
+white-space: nowrap;	/*想显示省略号这三个不能少*/
+overflow: hidden;		/*想显示省略号这三个不能少*/
+text-overflow: ellipsis;/*想显示省略号这三个不能少*/
